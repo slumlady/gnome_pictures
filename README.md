@@ -1,4 +1,6 @@
 gnome_pictures
 ==============
 
-pictures of gnomes
+Hello, friends. I hope you enjoy looking at pictures of gnomes.
+
+
